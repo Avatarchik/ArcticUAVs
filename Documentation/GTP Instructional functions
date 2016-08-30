@@ -1,0 +1,56 @@
+GTP Instructional functions
+
+			Start
+
+			Update
+
+
+
+			animateFlash
+
+			checkForLevelCompletion
+
+
+
+			displayHint
+
+			getOffsets
+
+			getSceneReady
+
+			handleContinue
+
+			handleFirstFrame
+
+			handleHoverTimeAchieved
+
+			handlePopupHint
+
+			setupInstructional
+
+			handleUAVFreezing
+
+			hideNecessaryObjects
+
+
+
+
+
+
+
+
+
+
+			spawnOtterWithRegion
+				setupOtter
+						setupOtterRenderer
+				setupPictureRegion
+					addDottedLines
+						setupDottedLineRenderer
+				setupCameraIcon
+				surfaceOtter //brings the otter to the surface (animation)
+
+
+					uavPositionWatcher
+						checkIfInRegion
+							uavPositionWatcher

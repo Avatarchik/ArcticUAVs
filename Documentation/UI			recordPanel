@@ -1,0 +1,27 @@
+UI			recordPanel
+
+UI			challenge
+
+UI			message
+
+
+
+uavStatus			inPlay
+
+uavStatus			landed
+
+uavStatus			lost
+
+uavStatus			onGround
+
+uavStatus			started
+
+uavStatus			won
+
+
+
+trophies			albinoOtter
+
+trophies			birdsHit
+
+trophies			birdsSaved

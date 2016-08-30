@@ -1,0 +1,33 @@
+Youtube Video Player
+
+"""Important in player settings set the Api Compatibility Level to .NET 2.0"""
+
+How it works:
+You need to pass the youtube video id or the youtube url and the system returns the video .mp4 file. 
+You can call the unity3D Handheld.PlayFullScreenMovie to play your video in fullscreen.
+In older version a third party server are needed, on this version you dont need this anymore :)
+
+1080p videos dont have audio atached (youtube thing), for next version i'm developing one feature, to download the video and convert to a new video with audio.(almost done)
+(AND THE MOST REQUESTED WINDOWS SUPPORT (ALMOST DONE!!));
+
+Class Usage:
+the Handheld.PlayFullScreenMovie play mobile videos *only on mobile device, not works on editor
+YoutubeVideo.Instance.RequestVideo is everithing you need to get the video, this function returns the .mp4
+
+
+Example Scene:
+If you want to play the video on textures, just like a outdor(example) in game or a 360 degree video(using a sphere scene of Easy Movie Texture) you need a third part asset, Easy Movie Texture works perfectly with that plugin, if you have Easy Movie Texture take a look at YoutubeEasyMovieTexture script
+I think you can do that using a free plugin too, not tested yet but you can try to use vuforia to play video as texture.
+
+
+EASY MOVIE TEXTURE:
+You can add the youtube video as texture using the Easy Movie Texture.
+Added one example script "YoutubeEasyMovieTexture.cs" you can just leave the MediaPlayerCtrl component video variable clear and add the YoutubeEasyMovieTexture.cs
+to the same game object, add the youtube video id on the variable space and try to run on your mobile device.
+If you want to set 360 degree video use the sphere scene of Easy Movie Texture and use a video id of one 360 degree video.
+
+Support:
+
+If you need help you can send one email to
+
+Email: kelvinparkour@gmail.com

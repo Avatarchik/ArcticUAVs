@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{2F53D03E-D749-C992-FB19-B767B2345DB3}") = "ArcticUAVs", "Assembly-CSharp-firstpass.csproj", "{74DB8522-1ACE-A8EE-51B1-65A21F1E5C6A}"
+EndProject
+Project("{2F53D03E-D749-C992-FB19-B767B2345DB3}") = "ArcticUAVs", "Assembly-CSharp.csproj", "{34174EB5-56F7-705A-2339-64ED08D5D349}"
+EndProject
+Project("{2F53D03E-D749-C992-FB19-B767B2345DB3}") = "ArcticUAVs", "Assembly-CSharp-Editor.csproj", "{78054CB8-30D2-930F-A76E-77B3EBEC28B5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{74DB8522-1ACE-A8EE-51B1-65A21F1E5C6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74DB8522-1ACE-A8EE-51B1-65A21F1E5C6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74DB8522-1ACE-A8EE-51B1-65A21F1E5C6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74DB8522-1ACE-A8EE-51B1-65A21F1E5C6A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34174EB5-56F7-705A-2339-64ED08D5D349}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34174EB5-56F7-705A-2339-64ED08D5D349}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34174EB5-56F7-705A-2339-64ED08D5D349}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34174EB5-56F7-705A-2339-64ED08D5D349}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78054CB8-30D2-930F-A76E-77B3EBEC28B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78054CB8-30D2-930F-A76E-77B3EBEC28B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78054CB8-30D2-930F-A76E-77B3EBEC28B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78054CB8-30D2-930F-A76E-77B3EBEC28B5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,20 @@
+v2.2
+- Added Music
+- Bug fixes
+
+v2.1
+- Completely redone Map That Ice Tutorial
+- Fixed blank high scores
+- Updated bonus sound
+- Changed to a "Launch" button for UAV control in MTI
+- Removed birds from MTI (WAY TO HARD, Jay was right)
+- Changed coins to shells in GTP, and fish in MTI
+- Reworked some UI elements
+
+v2.0
+- ADDED SOUNDS!
+- Changed control scheme
+- Redesigned menu layout
+- Added a new mission: Learn To Fly
+- All new tutorials
+- Adjusted scoring system

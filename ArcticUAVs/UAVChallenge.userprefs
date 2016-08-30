@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/LearnToFlyController.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Main.cs" Line="28" Column="49" />
+      <File FileName="Assets/Scripts/ButtonController.cs" Line="121" Column="52" />
+      <File FileName="Assets/Scripts/LearnToFlyController.cs" Line="437" Column="75" />
+      <File FileName="Assets/Scripts/GoalLineController.cs" Line="15" Column="33" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

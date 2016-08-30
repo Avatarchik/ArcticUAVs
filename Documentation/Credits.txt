@@ -1,0 +1,32 @@
+Developed By: Jay Byam, Steve Farabaugh & Jonathan Newell using Unity Pro
+Funded By: National Science Foundation, Frontier Scientists, WonderVisions & ACUASI
+Art Direction By: David Freeman
+Illustrations By: Randy Titchnell & those aquired through
+Sound Effects: All these sounds are found on freesound.com and are licensed under CC BY 3.0
+    Battery sound: "Spacey 1up/Power up" by GameAudio
+    Bonus sound: "j1bonus_mono.wav" by jivatma07
+    Camera shutter sound: "1/100 second camera shutter" by FenrirFangs
+    Gull sound: "Gull.wav" by nigelcoop
+    Man-yell sound: "Yell EEEH" by joseppujol
+    Rain sound: "Heavy Rain" by lebcraftlp
+    Splash sound: "SPLASH (by blaukreuz)" by qubodup
+    Thunder sound: "Thunder Clap OWB KY 441x16.wav" by Dave Welsh
+    UAV Crash sound: "ns_plasticcrunch.wav" by cmusounddesign
+    UAV Propeller sound: "Propellor plane indoors ambience 2.wav" by finalCrystine
+Music By: Kengo Nagaoka
+Creative Commons License:
+    http://creativecommons.org/licenses/by-sa/3.0/us/legalcode
+    Unmodified: Designmodo
+    Modified: Google Design, P.J. Onori
+The MIT License (MIT):
+    Copyright (c) 2016 Ionicons
+    THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, 
+    EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES 
+    OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND 
+    NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT 
+    HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, 
+    WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING 
+    FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR 
+    OTHER DEALINGS IN THE SOFTWARE.
+
+Privacy Policy (from https://unity3d.com/legal/eula): Data collected from the use and play of Arctic UAVs will be gathered using Unity Pro provided tools.  Data collected will be shared with Frontier Scientists, UAF RCS, and UAF ACUASI.  Data storage will remain in the Unity Pro collection tools and will be extracted when needed for the use of report generation.  Unity is the service provider and collects certain data from the play statistics of Arctic UAVs.  Unity's privacy policy is available at https://unity3d.com/legal/privacy-policy and may be updated from time to time.  Arctic UAV's service providers have the right and ability to target and deliver advertisements to End Users based on device identifiers and other End User Data.

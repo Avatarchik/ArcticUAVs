@@ -1,0 +1,9 @@
+# Temp folders
+ArcticUAVs/Temp/*
+ArcticUAVs/Library/*
+ArcticUAVs/Obj/*
+
+# Binaries
+.DS_Store
+*.DS_Store
+*.apk

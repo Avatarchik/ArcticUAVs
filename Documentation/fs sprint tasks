@@ -1,0 +1,7 @@
+old command
+
+
+=Sort(FILTER(MasterPlan!A1:E229,MasterPlan!F1:F229=VALUE(REGEXEXTRACT(A1,"\d+")),MasterPlan!F1:229<>""),5,false,1,true)
+
+
+=Sort(FILTER(MasterPlan!A1:E229,if(iferror(Find(REGEXEXTRACT(A1,"\d+"),MasterPlan!F1:F229)),true,false),MasterPlan!F1:229<>""),5,false,1,true)

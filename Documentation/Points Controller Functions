@@ -1,0 +1,28 @@
+
+updatePoints => Invoked by Start
+
+getValidPosition => Used for Coin generator for MTI => ***** DONE *****
+	pointIsValid => Called by ⬆︎ => ***** DONE *****
+
+handleDisplayingScoreResults => Called by Update => Depricated (Moved to ending script) => ***** DONE *****
+	displayScoreResults => Called by ⬆︎
+		animateEndScoreDisplay => Called by ⬆︎ => Depricated (merge into one function) => ***** DONE *****
+			handleMissionPointsDisplay => Called by ⬆︎ => merge ⬆︎ => ***** DONE *****
+			handleEndTotalDisplay => merge ⬆︎ => ***** DONE *****
+
+handleTallyingPoints => Called by Update => Depricated (Handeld by scene controller) => ***** DONE *****
+	tallyFinalPoints => Called by ⬆︎ => Depricated (merge into ⬆︎) => ***** DONE *****
+
+initializeValues => Called by Start => Depricated (Merged into Start) => ***** DONE *****
+
+spawnCoins => Called by Start
+	spawnSideCoins => Called by ⬆︎
+		setupCoinsRenderer => Called by ⬆︎
+	spawnTopCoins => Called by ⬆︎
+		setupTopCoinsCollider => Called by ⬆︎
+		setupCoinsRenderer => Called by ⬆︎
+
+
+keepTime => Called by Start => Depricated (Replaced with Game time) => ***** DONE *****
+
+determineTimeFactor => Called by Start => Depricated (Move to being handeled by each scene); => ***** DONE *****
